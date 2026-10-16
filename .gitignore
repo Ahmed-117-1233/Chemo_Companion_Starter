@@ -1,0 +1,7 @@
+.streamlit/secrets.toml
+.venv/
+chemo_companion.db
+__pycache__/
+*.db
+*.csv
+Chemo_Companion_Backup/
